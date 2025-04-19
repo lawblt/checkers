@@ -8,7 +8,7 @@ Ce projet consiste en l’implémentation du jeu de dames chinoises en Java, ré
 
 - Plateau de jeu losange 
 - Déplacement des pions selon les règles des dames chinoises
-- -Zone speciales qui permet d'avancer de manière différentes
+- Zone speciales qui permet d'avancer de manière différentes
 - Système de tour par joueur
 - Prise en charge de 1 joueur contre bot
 - Interface utilisateur GUI Swing
